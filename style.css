@@ -19,5 +19,12 @@ border-radius: 5px;
 cursor: pointer;
 }
 button:hover {
-background-color: #1b4332;
+button {
+background-color: #52b788; /* corrigido */
+}
+section {
+background-color: #d8f3dc;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
 }
