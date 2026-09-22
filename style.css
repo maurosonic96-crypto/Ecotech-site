@@ -11,7 +11,7 @@ background-color: #95d5b2;
 padding: 40px;
 }
 button {
-background-color: #2d6a4f;
+background-color: #52b788; /* corrigido */
 color: white;
 border: none;
 padding: 10px 20px;
@@ -20,7 +20,7 @@ cursor: pointer;
 }
 button:hover {
 button {
-background-color: #52b788; /* corrigido */
+background-color: #52b788;
 }
 section {
 background-color: #d8f3dc;
